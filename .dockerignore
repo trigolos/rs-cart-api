@@ -1,0 +1,4 @@
+# Generated during build process
+/dist
+# Node modules that are installed during image build
+/node_modules
